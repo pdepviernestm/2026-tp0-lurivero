@@ -8,3 +8,6 @@ Me gusta la musica, los tomates y dependiendo el dia codificar.
 En codificacion me gusta lo orientado a ciberseguridad y esas ramas.
 Detesto la linea 160.
 soy hincha de River y mi idolo es Fernando Cavenaghi.
+
+
+_legajo_ : 222.646-7
