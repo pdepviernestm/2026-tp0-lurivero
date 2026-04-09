@@ -3,7 +3,7 @@
 Buenas, me llamo Luciano Rivero, estudiante de la UTN en ingenieria de sistemas
 
 
-![imagen mia](yo.jpeg){width=300px height=200px}
+![imagen mia](yo.jpeg){width=150px height=100px}
 
 _cosas sobre mi_
 
